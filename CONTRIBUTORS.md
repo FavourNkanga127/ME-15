@@ -7,7 +7,7 @@
 | write your name | [@username](https://github.com/github username) | 22/EG/ME/yourreg num |
 | Member one | [username](https://github.com/username) | 22/EG/ME/XXXX |
 | Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
+| Full nameree | [@guthub usernnaeer3](https://github.com/guthub usernameber3) | 22/EG/ME/XXXX |
 | Member one | [username](https://github.com/username) | 22/EG/ME/XXXX |
 | Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
