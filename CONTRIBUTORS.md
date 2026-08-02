@@ -7,7 +7,7 @@
 | Paul Onyeka Nkemelu | [Paulnkemelu27-oss](https://github.com/Paulnkemelu27-oss) | 22/EG/ME/1697 |
 write your name | [@username](https://github.com/github username) | 22/EG/ME/yourreg num |
 | Reginald Emmanuel James| [reginaldjames026](https://github.com/reginaldjames026) | 22/EG/ME/1777 |
-| Full nameree | [@guthub usernnaeer3](https://github.com/guthub usernameber3) | 22/EG/ME/XXXX |
+| UGWUANYI KINGSLEY UGOCHUKWU| [kingsley 1237](https://github.com/guthub Kingsley 1237) | 22/EG/ME/1787 |
 | Member one | [username](https://github.com/username) | 22/EG/ME/XXXX |
 | Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
