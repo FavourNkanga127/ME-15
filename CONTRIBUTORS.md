@@ -11,8 +11,7 @@
 | ESSIEN, ABASIOFONAKAN ENOBONG| [Abasiofonakan2026](https://github.com/Abasiofonakan2026) | 22/EG/ME/1797 |
 | ETIM,ENO-OBONG NSEYEN | [enoobongetim125](https://github.com/enoobongetim125) | 22/EG/ME/1757 |
 | UDOAKA NDUKEABASI MICHAEL| [nduke-netizen](https://github.com/nduke-netizen) | 22/EG/ME/1747 |
-| Ekong Gospel Anthony| [@ekonggospel10-stack] (https://github.com/ekonggospel10-stack) | 22/EG/ME/1737 |
+| Ekong Gospel Anthony| [ekonggospel10-stack](https://github.com/ekonggospel10-stack)| 22/EG/ME/1737 |
 | JOEL GODWIN ITA| [@JOELITA12](https://github.com/JOELITA12) | 22/EG/ME/1727 |
 | Member one | [username](https://github.com/username) | 22/EG/ME/XXXX |
-| Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX 
-| UGWUANYI KINGSLEY UGOCHUKWU| [kingsley 123](https://github.com/guthub Kingsley 1237) | 22/EG/ME/1787 |
+| Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
