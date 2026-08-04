@@ -13,5 +13,5 @@
 | UDOAKA NDUKEABASI MICHAEL| [nduke-netizen](https://github.com/nduke-netizen) | 22/EG/ME/1747 |
 | Ekong Gospel Anthony| [ekonggospel10-stack](https://github.com/ekonggospel10-stack)| 22/EG/ME/1737 |
 | JOEL GODWIN ITA| [@JOELITA12](https://github.com/JOELITA12) | 22/EG/ME/1727 |
-| George Nsikan George| [https://github.com/georgeomania1-pixel](https://github.com/georgeomania-pixel) | 22/EG/ME/1767 |
+| George Nsikan George| [georgeomania1-pixel](https://github.com/georgeomania-pixel) | 22/EG/ME/1767 |
 | Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
