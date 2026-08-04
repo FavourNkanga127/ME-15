@@ -12,7 +12,7 @@ write your name | [@username](https://github.com/github username) | 22/EG/ME/you
 | ESSIEN, ABASIOFONAKAN ENOBONG| [Abasiofonakan2026](https://github.com/Abasiofonakan2026) | 22/EG/ME/1797 |
 | ETIM,ENO-OBONG NSEYEN | [enoobongetim125](https://github.com/enoobongetim125) | 22/EG/ME/1757 |
 | UDOAKA NDUKEABASI MICHAEL| [nduke-netizen](https://github.com/nduke-netizen) | 22/EG/ME/1747 |
-| Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX |
+| Ekong Gospel Anthony| [@ekonggospel10-stack] (https://github.com/ekonggospel10-stack) | 22/EG/ME/1737 |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member one | [username](https://github.com/username) | 22/EG/ME/XXXX |
 | Member Two | [@member2](https://github.com/member2) | 22/EG/ME/XXXX 
